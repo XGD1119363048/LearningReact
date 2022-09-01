@@ -1,0 +1,476 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 5945,
+                "name": "出拳吧，妈妈",
+                "poster": "https://pic.maizuo.com/usr/movie/6feeed3643a96934a81d4c7c0b11dad5.jpg",
+                "actors": [
+                    {
+                        "name": "唐晓白",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3bea1e7a05deafd209bc23e94317fb85.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "谭卓",
+                        "role": "白杨",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8288750d0756972779198e28a8724808.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "田雨",
+                        "role": "沈浩",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/87dc54c2c4484f062724fef3e958f84c.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "田海蓉",
+                        "role": "白杨姐姐",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/39401ee8cb1cff5f5abc081ca4ebf4ef.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "郭唐维",
+                        "role": "小辉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2e691f02f4e926b5aaf653f619876670.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "唐晓白",
+                "category": "亲情|励志|运动",
+                "synopsis": "丧到家的人生难道翻盘不出高光时刻了吗？白杨（谭卓饰演）是一个性格倔强、坚守内心原则的年轻妈妈；几年前因一时冲动失去所有、母子分离，孩子被迫交给姐姐（田海蓉饰演）扶养；直到遇见性格奇葩、舌毒心暖的男人沈浩（田雨饰演），在他的帮助下，白杨重新燃起了斗志，痛下决心夺回失去的一切。而前方等着白杨的，却完全超乎了她的想象……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1651276800,
+                "timeType": 3,
+                "runtime": 96,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5832,
+                "name": "邓小平小道",
+                "poster": "https://pic.maizuo.com/usr/movie/528d9ee46444447c79c3216261d86ec7.jpg",
+                "actors": [
+                    {
+                        "name": "雷献禾",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fceab5985d6e39c6b95564be221fc59c.jpg"
+                    },
+                    {
+                        "name": "卢奇",
+                        "role": "联合导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b3f857cf47dcf4b758c65898b9537a85.jpg"
+                    },
+                    {
+                        "name": "卢奇",
+                        "role": "邓小平",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b3f857cf47dcf4b758c65898b9537a85.jpg"
+                    },
+                    {
+                        "name": "于慧",
+                        "role": "卓琳",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9da90e443f215e08c27d720829755cc6.jpg"
+                    },
+                    {
+                        "name": "何建泽",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dd9b211e429243d5b4cb63b58d603b49.jpg"
+                    }
+                ],
+                "director": "雷献禾|卢奇",
+                "category": "剧情|传记",
+                "synopsis": "文革期间邓小平被革职下放江西，面临多重高压危机四伏，但始终保持坚毅、乐观，初心不改。为了他的安全，工厂师傅为他专门开辟了一条近道。三年零四个月，他每天沿着这条小道去工厂劳动，风雨无阻，后人称之为“邓小平小道”“小平小道”。他在坚持劳动的同时还要照顾瘫痪在床的大儿子，每天为他擦背翻身，终因劳累过度、营养不良晕倒车间。危急时分，车间女工以一碗红糖水救了他。他深入基层感知群众生活的疾苦，得出“贫穷不是社会主义”的伟大结论，为他复出后进行治理整顿、改革开放奠定了坚实的思想基础。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1646956800,
+                "timeType": 3,
+                "runtime": 105,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5471,
+                "name": "我要我们在一起",
+                "poster": "https://pic.maizuo.com/usr/movie/ea32c21b19817f0a9d7d799c1262ac8d.jpg",
+                "actors": [
+                    {
+                        "name": "沙漠",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f05259f6bbe9bc3c1bd482dba2a157c.jpg"
+                    },
+                    {
+                        "name": "屈楚萧",
+                        "role": "吕钦扬",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5335edbc06383752b6af8aa50a1e28dc.jpg"
+                    },
+                    {
+                        "name": "张婧仪",
+                        "role": "凌一尧",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/914081d98e355a7af3d245f6438a210b.jpg"
+                    },
+                    {
+                        "name": "孙宁",
+                        "role": "大乔",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a0125e77d9e23c567b419cec47ea9ace.jpg"
+                    },
+                    {
+                        "name": "张垚",
+                        "role": "蒋倩倩",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4610688c118ded16674712ab11867131.jpg"
+                    }
+                ],
+                "director": "沙漠",
+                "category": "爱情",
+                "synopsis": "你有没有爱过一个人，曾经拼了命，只为和TA在一起。十年前，差生吕钦扬当众告白凌一尧，两人从校园步入社会，为了让她幸福，他不惜以命相搏。然而金钱、房子、婚姻等现实的考验，却将两人越推越远。十年长跑，他们能否还记得曾经刻在心底的约定：我要我们在一起。电影改编自长帖《与我十年长跑的女友明天要嫁人了》。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1621468800,
+                "timeType": 3,
+                "runtime": 105,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5859,
+                "name": "长津湖之水门桥",
+                "poster": "https://pic.maizuo.com/usr/movie/89689a6d36e155b697ed3e35a6c1da12.jpg",
+                "actors": [
+                    {
+                        "name": "陈凯歌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7c4f4a21c2bd1fea583c0abbb3e3a137.jpg"
+                    },
+                    {
+                        "name": "徐克",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/167312fd73483b00efa169c29663d403.jpg"
+                    },
+                    {
+                        "name": "林超贤",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4033b234b72900ee8859fc739afe7e23.jpg"
+                    },
+                    {
+                        "name": "吴京",
+                        "role": "伍千里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0a8f4a063cce18afa5103a26577c452b.jpg"
+                    },
+                    {
+                        "name": "易烊千玺",
+                        "role": "伍万里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b4b9f6f7564b4068aec8d37036459e.jpg"
+                    }
+                ],
+                "director": "陈凯歌|徐克|林超贤",
+                "category": "剧情|历史|战争",
+                "synopsis": "电影《长津湖之水门桥》以抗美援朝战争第二次战役中的长津湖战役为背景，讲述了在结束了新兴里和下碣隅里的战斗之后，七连战士们又接到了更艰巨的任务……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1643673600,
+                "timeType": 3,
+                "runtime": 149,
+                "grade": "7.4",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 1155,
+                "name": "夺宝联盟",
+                "poster": "https://pic.maizuo.com/usr/100001155/26125a769f717b214b823b53cd032b56.jpg",
+                "director": "崔东勋",
+                "category": "动作|犯罪",
+                "synopsis": "曾轰动全球且价值高达300亿的钻石太阳之泪惊现中国澳门，某神秘人物委托混迹赌场的盗贼朴澳门（金允锡 饰）组织人马侵入赌场金库，盗取钻石，事成之后报酬颇丰。在此之后，朴从韩国网罗了当年被他背叛的伙伴波比（李政宰 饰）、詹姆帕诺（金秀贤 饰）、艾妮可（全智贤 饰）、口香糖（金海淑 饰）、百事（金惠秀 饰），以及中国方面的陈（任达华 饰）、安德鲁（吴达秀 饰）、朱莉（李心洁 饰）、乔尼（曾国祥 饰）等人。这些人中包括偷盗、绳索、路线、演技等各方面高手，实可谓一次强强联合。在朴澳门的周密策划下，偷盗行动有条不紊地展开。在此过程中两方人马暗暗较劲又相互帮衬配合，紧张有趣而意外迭出，上演了一出中韩盗贼大比拼……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "韩国",
+                "language": "韩语  汉语普通话  ",
+                "videoId": "",
+                "premiereAt": 1358208000,
+                "timeType": 3,
+                "runtime": 139,
+                "grade": "2",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5898,
+                "name": "神秘海域",
+                "poster": "https://pic.maizuo.com/usr/movie/a17030216bc281dfc04c0964bd911497.jpg",
+                "actors": [
+                    {
+                        "name": "鲁本·弗雷斯彻",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d20f1b6147200c477620e659c13cad08.jpg"
+                    },
+                    {
+                        "name": "汤姆·赫兰德",
+                        "role": "Nathan Drake",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ad9c42c11dd514373918b7adaac17f52.jpg"
+                    },
+                    {
+                        "name": "马克·沃尔伯格",
+                        "role": "Victor Sullivan",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b337757d1e6843f5a1b974aa6c37bce6.jpg"
+                    },
+                    {
+                        "name": "索菲娅·阿里",
+                        "role": "Chloe Frazer",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7cdf59184a916726350c2ae032d1d372.jpg"
+                    },
+                    {
+                        "name": "塔蒂·加布里埃",
+                        "role": "Braddock",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1bad524a3ad9667b04d762f539935ffc.jpg"
+                    }
+                ],
+                "director": "鲁本·弗雷斯彻",
+                "category": "动作|冒险",
+                "synopsis": "足智多谋的内森·德雷克（汤姆·赫兰德 饰）和经验丰富的寻宝者维克多·苏利文（马克·沃尔伯格 饰）组成搭档，追寻费迪南·麦哲伦500年前遗失的宝藏。一开始，这似乎只是个简单的寻宝工作，但很快演变成了一场惊险刺激、横跨全球的竞赛。他们必须赶在冷酷无情的蒙卡达（安东尼奥·班德拉斯 饰）之前寻得宝藏。蒙卡达坚信他和他的家族才是宝藏的正当继承人。若内森和苏利文能破译线索，解开这世界上最古老的谜团，他们便能找到价值50亿美元的宝藏，甚至还可能找到内森失踪已久的哥哥…但首先，他们必须学会通力合作。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1647216000,
+                "timeType": 3,
+                "runtime": 116,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5990,
+                "name": "回南天",
+                "poster": "https://pic.maizuo.com/usr/movie/446dc7d5a848628ee9cb4d3e4f50224b.jpg",
+                "actors": [
+                    {
+                        "name": "高鸣",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/692be552934a1f5f77a9fc14c15222c6.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "黄宇聪",
+                        "role": "小东",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/325e346c852e93c55016b02c274e177b.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "陈宣宇",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/03dfa0c1d5b9383084605546a81d7b70.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "梁龙",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/565c0095eac6232255b63ca73c5467e8.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "邱炯炯",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f5399dfd99abef6f5a58762852970878.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "高鸣",
+                "category": "青春|爱情",
+                "synopsis": "一个南方的两男两女（理想坚持者、中年危机者、疑似抑郁者、安全感缺失者 ）的两面生活，潮湿模糊的日常，却是恒久的忍耐与坚持。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1656028800,
+                "timeType": 3,
+                "runtime": 107,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5121,
+                "name": "阿里巴巴与神灯",
+                "poster": "https://pic.maizuo.com/usr/movie/b7be59a52d3bce4ed08f676aa7ed46f7.jpg",
+                "actors": [
+                    {
+                        "name": "杨进",
+                        "role": "阿里巴巴",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/51aaada0cad4ce68bbc8633067d42365.jpg"
+                    },
+                    {
+                        "name": "丁莹莹",
+                        "role": "小芝麻",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4cd2b7fc0ca028955bbc688a10fa8baf.jpg"
+                    },
+                    {
+                        "name": "丁传慧",
+                        "role": "神灯精灵",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4ab8642345f09e247456398188fbf5be.jpg"
+                    },
+                    {
+                        "name": "扉棱",
+                        "role": "巫婆",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3a40c751fe50ae104890a8fb0956c425.jpg"
+                    }
+                ],
+                "director": "朱葛",
+                "category": "冒险|动画|喜剧",
+                "synopsis": "一群强盗闯入阿兹罗德，惊动了封印中的噩梦君主，强盗被噩梦控制企图打开封印，得知消息的阿里巴巴与小芝麻再次踏上了冒险之旅，此时冒险者阿拉丁带着他的神灯也进入了沙漠，一起联手将噩梦君主打败.",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1599264000,
+                "timeType": 3,
+                "runtime": 80,
+                "grade": "7.4",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5377,
+                "name": "小美人鱼的奇幻冒险",
+                "poster": "https://pic.maizuo.com/usr/movie/e26ccb7bc562573ab2032d752d55d45f.jpg",
+                "actors": [
+                    {
+                        "name": "思明",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fbc620971e5d6e65c62a946ae6d36665.jpg"
+                    }
+                ],
+                "director": "思明",
+                "category": "动画|奇幻|冒险",
+                "synopsis": "海的女儿—美人鱼作为经典的童话故事之一伴随几代人的童年记忆在世间广为流传。本片讲述在神秘的海洋国度，美丽勇敢的小美人鱼抗争传统束缚，追求自由从而改变自己命运的故事。此片再现“美人鱼”的纯真世界，用积极且充满正能量的内容再一次唤起大众对于这个经典题材的兴趣。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1617408000,
+                "timeType": 3,
+                "runtime": 82,
+                "grade": "7.7",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5886,
+                "name": "浴血誓言",
+                "poster": "https://pic.maizuo.com/usr/movie/966d82bd56165380ebf9489c84d5aded.png",
+                "actors": [
+                    {
+                        "name": "宋业明",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0c5d92374b2441b42f837475991eaff7.jpg"
+                    },
+                    {
+                        "name": "宋禹",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0b6d4e9f5c74cb0c0b09ed381bf1b822.jpg"
+                    },
+                    {
+                        "name": "赵秦",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3c63084d2a6dd0d6e81bd4471cda5e11.jpg"
+                    },
+                    {
+                        "name": "任帅",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c6beba1ba6c2f86b7863d1a10c2f1ee1.jpg"
+                    },
+                    {
+                        "name": "徐永革",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/61111922c0fa0bd844fdd906b9187867.jpg"
+                    }
+                ],
+                "director": "宋业明",
+                "category": "历史|战争",
+                "synopsis": "梗概：1937年3月，红军西路军高台战役失利，西路军在极端艰难的情况下，与盘踞在大西北的军阀马步芳、马步青部浴血奋战、殊死战斗。红军战士用他们的生命和鲜血演绎了一曲壮烈的誓言之歌。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1646006400,
+                "timeType": 3,
+                "runtime": 99,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 35
+    },
+    "msg": "ok"
+}
