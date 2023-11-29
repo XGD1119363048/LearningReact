@@ -4,17 +4,19 @@ import { NavLink, Redirect, Route, Switch } from 'react-router-dom'
 import NowPlaying from './films/NowPlaying'
 import ComingSoon from './films/ComingSoon'
 
+import style from './css/Film.module.css'
+
 export default class Films extends Component {
   render() {
     return (
-      <div>
+      <div className={style.film + ' aaaaa'}>
         <div style={{ height: '200px', background: 'yellow' }}>大轮播</div>
         <ul>
           <li>
-            <NavLink to='/films/nowplaying'>正在热映</NavLink>
+            <NavLink to='/films/nowplaying' activeClassName={style.active}>正在热映</NavLink>
           </li>
           <li>
-            <NavLink to='/films/comingsoon'>即将上映</NavLink>
+            <NavLink to='/films/comingsoon' activeClassName={style.active}>即将上映</NavLink>
           </li>
         </ul>
 

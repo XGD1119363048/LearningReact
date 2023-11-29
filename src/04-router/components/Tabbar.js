@@ -1,19 +1,19 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import './Tabbar.css'
+import style from './Tabbar.module.css'
 
 export default function Tabbar() {
   return (
     <div>
       <ul>
         <li>
-          <NavLink to='/films' activeClassName='xgd-active'>电影</NavLink>
+          <NavLink to='/films' activeClassName={style.active}>电影</NavLink>
         </li>
         <li>
-          <NavLink to='/cinemas' activeClassName='xgd-active'>影院</NavLink>
+          <NavLink to='/cinemas' activeClassName={style.active}>影院</NavLink>
         </li>
         <li>
-          <NavLink to='/center' activeClassName='xgd-active'>我的</NavLink>
+          <NavLink to='/center' activeClassName={style.active}>我的</NavLink>
         </li>
       </ul>
     </div>
