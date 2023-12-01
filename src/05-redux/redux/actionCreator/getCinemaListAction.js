@@ -25,8 +25,8 @@ import axios from "axios"
 /**
  * redux-promise
  */
-function getCinemaListAction() {
-  return axios({
+async function getCinemaListAction() {
+  let list = await axios({
     url: 'https://m.maizuo.com/gateway?cityId=110100&ticketFlag=1&k=1524161',
     method: 'get',
     headers: {
@@ -40,6 +40,8 @@ function getCinemaListAction() {
       value: res.data.data.cinemas
     }
   })
+
+  return list
 }
 
 export default getCinemaListAction
