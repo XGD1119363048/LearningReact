@@ -12,7 +12,7 @@ export default class App extends Component {
   constructor() {
     super()
     this.state = {
-      isShow: store.getState().show
+      isShow: store.getState().TabbarReducer.show
     }
   }
 
@@ -21,7 +21,7 @@ export default class App extends Component {
     store.subscribe(() => {
       console.log('app 中订阅', store.getState())
       this.setState({
-        isShow: store.getState().show
+        isShow: store.getState().TabbarReducer.show
       })
     })
   }
