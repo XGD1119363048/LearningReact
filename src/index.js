@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './07-antd/04-下拉菜单'
+import App from './07-antd/05-步骤条'
 // import { Provider } from 'react-redux'
 // import { store, persistor } from './06-react-redux/redux/store'
 
