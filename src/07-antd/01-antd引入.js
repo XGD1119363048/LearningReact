@@ -6,7 +6,7 @@ export default class App extends Component {
     return (
       <div>
         <Button type='primary' onClick={() => {
-            console.log('click')
+          console.log('click')
         }} danger ghost={true} loading>Primary Button</Button>
       </div>
     )
