@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react'
 import getCinemaListAction from '../redux/actionCreator/getCinemaListAction'
-import store from '../redux/store'
+import { store } from '../redux/store'
 
 export default function Search() {
   const [cinemaList, setCinemaList] = useState(store.getState().CinemaListReducer.list)

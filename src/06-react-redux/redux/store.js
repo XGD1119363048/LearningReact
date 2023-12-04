@@ -9,26 +9,15 @@ import CinemaListReducer from './reducers/CinemaListReducer'
 import reduxThunk from 'redux-thunk'
 import reduxPromise from 'redux-promise'
 
-// const reducer = (prevState = {
-//   show: true,
-//   cityName: '北京'
-// }, action = {}) => {
-//   console.log(action)
-//   let newState = {...prevState}
-//   switch(action.type) {
-//     case 'hide-tabbar':
-//       newState.show = false
-//       return newState
-//     case 'show-tabbar':
-//       newState.show = true
-//       return newState
-//     case 'change-city':
-//       newState.cityName = action.value
-//       return newState
-//     default:
-//       return prevState
-//   }
-// }
+import { persistStore, persistReducer } from 'redux-persist'
+import storage from 'redux-persist/lib/storage' // defaults to localStorage for web
+
+const persistConfig = {
+  key: 'persistxgd',
+  storage,
+  whitelist: ['CityReducer'], // 持久化白名单
+  // blacklist: [] 持久化黑名单
+}
 
 const reducer = combineReducers({
   CityReducer,
@@ -36,9 +25,13 @@ const reducer = combineReducers({
   CinemaListReducer
 })
 
+const persistedReducer = persistReducer(persistConfig, reducer)
+
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
-const store = createStore(reducer, /* preloadedState, */ composeEnhancers(applyMiddleware(reduxThunk, reduxPromise)))
-// const store = createStore(reducer, applyMiddleware(reduxThunk, reduxPromise))
+const store = createStore(persistedReducer, /* preloadedState, */ composeEnhancers(applyMiddleware(reduxThunk, reduxPromise)))
+let persistor = persistStore(store)
+
+export {store, persistor}
 
 /**
  * store.dispatch
@@ -70,7 +63,7 @@ const store = createStore(reducer, /* preloadedState, */ composeEnhancers(applyM
 //   }
 // }
 
-export default store
+// export default store
 
 /**
  * var obj - {
