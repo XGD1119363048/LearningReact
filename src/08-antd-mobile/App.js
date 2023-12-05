@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import MRouter from './router/IndexRouter'
 
-import Tabbar from './components/Tabbar'
+import XGDTabbar from './components/Tabbar'
 
 import './views/css/App.css'
 import { connect } from 'react-redux'
@@ -20,7 +20,7 @@ class App extends Component {
         {/* 其他的内容 */}
         {/* <Button color='danger'>click</Button> */}
         <MRouter>
-          {this.props.isShow && <Tabbar/>}
+          {this.props.isShow && <XGDTabbar/>}
         </MRouter>
       </div>
     )
