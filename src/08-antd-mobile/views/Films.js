@@ -49,7 +49,8 @@ export default class Films extends Component {
         <div style={{
           position: 'sticky',
           top: 0,
-          background: 'white'
+          background: 'white',
+          zIndex: 100
         }}>
           <Tabs onChange={(value) => {
             this.props.history.replace(value)
