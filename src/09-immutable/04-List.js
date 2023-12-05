@@ -1,0 +1,25 @@
+import React, { Component } from 'react'
+
+import { List } from 'immutable'
+
+let arr = List([1, 2, 3])
+let arr2 = arr.push(4)
+let arr3 = arr2.concat([5, 6, 7])
+console.log(arr.toJS(), arr2.toJS(), arr3.toJS())
+
+export default class App extends Component {
+
+  state = {
+    favor: List(['aaa', 'bbb', 'ccc'])
+  }
+
+  render() {
+    return (
+      <div>
+        {
+          this.state.favor.map(item => <li key={item}>{item}</li>)
+        }
+      </div>
+    )
+  }
+}
