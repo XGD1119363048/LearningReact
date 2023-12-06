@@ -7,10 +7,12 @@ export default function Detail(props) {
   // console.log(props.location.state.filmId, '根据film id拿数据')
 
   useEffect(() => {
-    store.isTabbarShow = false
+    // store.isTabbarShow = false
+    store.changeHide()
     return () => {
       console.log('destroy')
-      store.isTabbarShow = true
+      // store.isTabbarShow = true
+      store.changeShow()
     }
   }, [])
   
