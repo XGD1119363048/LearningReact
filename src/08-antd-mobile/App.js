@@ -9,6 +9,8 @@ import { connect } from 'react-redux'
 // import store from './redux/store'
 // import { Button } from 'antd-mobile'
 
+import './util/request'
+
 class App extends Component {
   componentDidMount() {
     // console.log(this.props)
