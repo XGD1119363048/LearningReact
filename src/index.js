@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './11-styled-components/App'
+import App from './11-styled-components/01-透传props'
 
 // import { Provider } from 'mobx-react'
 // import store from './10-mobx/04-router/mobx/store'
