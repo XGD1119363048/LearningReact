@@ -8,12 +8,22 @@ export default function App() {
         if (store.getState().list1.length === 0) {
           // dispatch
           store.dispatch({
-            type: 'get-list'
+            type: 'get-list1'
           })
         } else {
           console.log('缓存', store.getState().list1)
         }
-      }}>click-ajax-异步缓存</button>
+      }}>click-ajax-异步缓存111</button>
+      <button onClick={() => {
+        if (store.getState().list2.length === 0) {
+          // dispatch
+          store.dispatch({
+            type: 'get-list2'
+          })
+        } else {
+          console.log('缓存', store.getState().list2)
+        }
+      }}>click-ajax-异步缓存222</button>
     </div>
   )
 }
