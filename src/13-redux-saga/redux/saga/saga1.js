@@ -1,12 +1,14 @@
-import { take, fork, call, put } from 'redux-saga/effects'
+import { call, put, takeEvery } from 'redux-saga/effects'
 
 function *watchSaga1() {
-  while(true) {
-    // take 监听组件发来的 action
-    yield take('get-list1')
-    // fork 非阻塞调用的形式执行 fn
-    yield fork(getList1)
-  }
+  // while(true) {
+  //   // take 监听组件发来的 action
+  //   yield take('get-list1')
+  //   // fork 非阻塞调用的形式执行 fn
+  //   yield fork(getList1)
+  // }
+
+  yield takeEvery('get-list1', getList1)
 }
 
 function *getList1() {
@@ -31,3 +33,4 @@ function getListAction1() {
 }
 
 export default watchSaga1
+export { getList1 }
