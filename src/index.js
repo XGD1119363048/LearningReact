@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './14-react-补充/懒加载/App'
+import App from './14-react-补充/forwardRef/App_forwardRef'
 
 // import { Provider } from 'mobx-react'
 // import store from './10-mobx/04-router/mobx/store'
